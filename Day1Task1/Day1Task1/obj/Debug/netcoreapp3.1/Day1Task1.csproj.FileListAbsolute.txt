@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\bin\Debug\netcoreapp3.1\Day1Task1.exe
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\bin\Debug\netcoreapp3.1\Day1Task1.deps.json
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\bin\Debug\netcoreapp3.1\Day1Task1.runtimeconfig.json
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\bin\Debug\netcoreapp3.1\Day1Task1.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\bin\Debug\netcoreapp3.1\Day1Task1.dll
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\bin\Debug\netcoreapp3.1\Day1Task1.pdb
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\obj\Debug\netcoreapp3.1\Day1Task1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\obj\Debug\netcoreapp3.1\Day1Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\obj\Debug\netcoreapp3.1\Day1Task1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\obj\Debug\netcoreapp3.1\Day1Task1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\obj\Debug\netcoreapp3.1\Day1Task1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\obj\Debug\netcoreapp3.1\Day1Task1.dll
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\obj\Debug\netcoreapp3.1\Day1Task1.pdb
+C:\Users\DELL\source\repos\Day1Task1\Day1Task1\obj\Debug\netcoreapp3.1\Day1Task1.genruntimeconfig.cache
