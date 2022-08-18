@@ -35,7 +35,7 @@ namespace Day2Task1
                     System.Console.WriteLine($"{name1} and {name2} likes your post");
                     break;
                 default:
-                    System.Console.WriteLine($"{name1} and {name2} and {counter} others like your post");
+                    System.Console.WriteLine($"{name1} and {name2} and {counter-2} others like your post");
                     break;
             }
         }
